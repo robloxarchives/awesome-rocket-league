@@ -10,14 +10,9 @@
 
 ## 📑 Table of Contents
 - [🚨 Cheater Reporting](#-cheater-reporting)
-- [⚠️ Cheat Projects](#-cheat-projects)
 - [🛠 Legit Tools & Utilities](#-legit-tools--utilities)
 - [📊 Stats & Replay Analysis](#-stats--replay-analysis)
 - [💻 APIs & Developer Resources](#-apis--developer-resources)
-- [🌐 Community & References](#-community--references)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-
 ---
 
 ## 🚨 Cheater Reporting
