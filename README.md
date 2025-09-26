@@ -2,6 +2,10 @@
 
 > #1 Rocket League resources
 
+## 🚨 Report Cheaters
+- [WhosBotting](https://whosbotting.com/) — Community tracking of suspected botters and cheaters.
+
+---
 ## ⚠️ Cheat Projects
 - EvilRLGYM ([Discord](https://discord.gg/qdhZbwraNZ)) - RL Hacking Community
 - VutriumBot ([Github](https://github.com/tntgamer685347/VutriumBot)) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Open Source Rocket League cheat
@@ -10,56 +14,23 @@
 - RLMarlbot ([Discord](https://discord.gg/qDBXbW6GB8)) - Discontinued
 
 ---
-## 🚨 Report Cheaters
-- [WhosBotting](https://whosbotting.com/) — Community tracking of suspected botters and cheaters.  
-- [Rocket League Garage Reports](https://rocket-league.com/trades/report) — Report scam trades and suspicious activity.  
-- [Psyonix Support](https://support.rocketleague.com/) — Official help & reporting page.  
-
----
-
 ## 🛠 Legit Tools & Utilities
 - [BakkesMod](https://bakkesmod.com/) ([Discord](https://discord.gg/bakkesmod)) — The must-have modding/training framework.   
 - [RLBot](https://github.com/RLBot/RLBot) ([Discord](https://discord.com/invite/rlbot-348658686962696195)) — Make Rocket League bots.  
 - [Quick Chat Generators](https://rlquickchats.com/) — Create & share quick chat combos.  
 
 ---
-
 ## 📊 Stats & Replay Analysis
 - [Ballchasing](https://ballchasing.com/) ([Discord](https://discord.gg/ballchasing)) — Upload & analyze replays with advanced stats.  
 - [Tracker Network (TRN)](https://rocketleague.tracker.network/) ([Discord](https://discord.gg/tracker)) — Player stats + leaderboards.  
 - [Octane.gg](https://octane.gg/) ([Discord](https://discord.gg/octane)) — Esports stats, match history, schedules.  
 
 ---
-
 ## 💻 APIs & Developer Resources
 - [Ballchasing API](https://ballchasing.com/doc/api) ([Discord](https://discord.gg/ballchasing)) — Automate replay uploads/analysis.  
 - [Tracker.gg Developer API](https://tracker.gg/developers) ([Discord](https://discord.gg/tracker)) — Stats via API.  
 - [Rocket League Replay Parser (Community)](https://github.com/tfausak/rocket-league-replays) — Open-source replay parsing tools.  
 
----
-
-## 🌐 Community & References
-- [Reddit: r/RocketLeague](https://www.reddit.com/r/RocketLeague/) — Main subreddit.  
-- [Rocket League Esports](https://esports.rocketleague.com/) — Official esports hub.  
-- [RL Garage](https://rocket-league.com/) — Trading, community forums, item DB.  
-- [Rocket League Community Hub (Discord)](https://discord.gg/rocketleague) — General chat, trades, news.  
 
 ---
-
-## 🤝 Contributing
-Want to add something? 🙌  
-- Keep it **relevant, safe, and organized**.  
-- Format: `Name (link) ([Discord]) — description`  
-- Sort alphabetically per section.  
-
-Check [CONTRIBUTING.md](CONTRIBUTING.md) for full rules.  
-
----
-
-## 📜 License
-[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)  
-No copyright — free to copy, remix, and share.  
-
----
-
-💡 *Pro Tip: Star ⭐ this repo if you want to keep up with new tools, reporting sites, and awareness threads.*
+💡 *Pro Tip: Star ⭐ this repo if you want to keep up with new tools, reporting sites, and latest trends.*
