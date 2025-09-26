@@ -1,19 +1,8 @@
 # 🚀 Awesome Rocket League [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/yourname/awesome-rocket-league?style=social)](https://github.com/yourname/awesome-rocket-league/stargazers) [![Discord](https://img.shields.io/discord/240880736851894272?logo=discord&label=community)](https://discord.gg/rocketleague)
 
-> ⚡ The **#1 curated hub** of Rocket League resources —  
+> ⚡ The **#1 ** Rocket League resources
 > tools, stats, reporting sites, AND known cheat projects (for awareness).  
-> 🕹️ Inspired by the [awesome](https://github.com/sindresorhus/awesome) format.  
-
-🔥 **Why?** Because the first 3 seconds matter. Get what you need instantly 👇  
-
----
-
-## 📑 Table of Contents
-- [🚨 Cheater Reporting](#-cheater-reporting)
-- [🛠 Legit Tools & Utilities](#-legit-tools--utilities)
-- [📊 Stats & Replay Analysis](#-stats--replay-analysis)
-- [💻 APIs & Developer Resources](#-apis--developer-resources)
----
+>  Inspired by the [awesome](https://github.com/sindresorhus/awesome) format.  
 
 ## 🚨 Cheater Reporting
 - [WhosBotting](https://whosbotting.com/) — Community tracking of suspected botters and cheaters.  
@@ -21,7 +10,7 @@
 - [Psyonix Support](https://support.rocketleague.com/) — Official help & reporting page.  
 
 ## ⚠️ Cheat Projects
-- [VutriumBot](https://github.com/tntgamer685347/VutriumBot) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Open Source Rocket League cheat
+- VutriumBot ([Github](https://github.com/tntgamer685347/VutriumBot)) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Open Source Rocket League cheat
 
 - Nextoshop ([Discord](discord.gg/nextbot)) ([Website](nextshop.vip)) - Closed Source Rocket League Cheat
 
