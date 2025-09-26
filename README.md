@@ -18,9 +18,8 @@
 ---
 
 ## 🛠 Legit Tools & Utilities
-- [BakkesMod](https://bakkesmod.com/) ([Discord](https://discord.gg/bakkesmod)) — The must-have modding/training framework.  
-- [RL Insider](https://rl.insider.gg/) — Price index for trading items.  
-- [RLBot Framework](https://github.com/RLBot/RLBot) ([Discord](https://discord.gg/rlbot)) — Build AI-controlled Rocket League bots.  
+- [BakkesMod](https://bakkesmod.com/) ([Discord](https://discord.gg/bakkesmod)) — The must-have modding/training framework.   
+- [RLBot](https://github.com/RLBot/RLBot) ([Discord](https://discord.com/invite/rlbot-348658686962696195)) — Make Rocket League bots.  
 - [Quick Chat Generators](https://rlquickchats.com/) — Create & share quick chat combos.  
 
 ---
