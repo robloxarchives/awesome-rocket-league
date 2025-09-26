@@ -3,13 +3,11 @@
 > #1 Rocket League resources
 
 ## ⚠️ Cheat Projects
-- VutriumBot ([Github](https://github.com/tntgamer685347/VutriumBot)) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Open Source Rocket League cheat
-
-- Nextoshop ([Discord](discord.gg/nextbot)) ([Website](nextshop.vip)) - Closed Source
-
 - EvilRLGYM ([Discord](https://discord.gg/qdhZbwraNZ)) - RL Hacking Community
-
-- RLMarlbot ([Discord](https://discord.gg/qdhZbwraNZ)) - Discontinued
+- VutriumBot ([Github](https://github.com/tntgamer685347/VutriumBot)) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Open Source Rocket League cheat
+- CarbonX  ([Discord](https://discord.com/invite/Kccszzv3D3)) ([Website](https://carbonx.gg/rocket-league)) - Closed Source
+- Nextoshop ([Discord](discord.gg/nextbot)) ([Website](nextshop.vip)) - Closed Source
+- RLMarlbot ([Discord](https://discord.gg/qDBXbW6GB8)) - Discontinued
 
 ---
 ## 🚨 Report Cheaters
