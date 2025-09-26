@@ -26,7 +26,7 @@
 - [Psyonix Support](https://support.rocketleague.com/) — Official help & reporting page.  
 
 ## ⚠️ Cheat Projects
-- [VutriumBot](https://github.com/tntgamer685347/VutriumBot) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Notorious cheat
+- [VutriumBot](https://github.com/tntgamer685347/VutriumBot) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Notorious Rocket League cheat
 ---
 
 ## 🛠 Legit Tools & Utilities
