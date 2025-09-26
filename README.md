@@ -21,13 +21,13 @@
 - [Psyonix Support](https://support.rocketleague.com/) — Official help & reporting page.  
 
 ## ⚠️ Cheat Projects
-- [VutriumBot](https://github.com/tntgamer685347/VutriumBot) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Notorious Rocket League cheat
+- [VutriumBot](https://github.com/tntgamer685347/VutriumBot) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Open Source Rocket League cheat
 
-- [Nextoshop]([Discord](discord.gg/nextbot)) ([Website](nextshop.vip)) - Rocket League Cheat
+- Nextoshop ([Discord](discord.gg/nextbot)) ([Website](nextshop.vip)) - Closed Source Rocket League Cheat
 
-- [EvilRLGYM](https://github.com/tntgamer685347/VutriumBot) ([Discord](https://discord.gg/qdhZbwraNZ)) - Continuation of MarlBot
+- EvilRLGYM ([Discord](https://discord.gg/qdhZbwraNZ)) - Continuation of MarlBot
 
-- [RLMarlbot]([Discord](https://discord.gg/qdhZbwraNZ)) - Discontinued
+- RLMarlbot ([Discord](https://discord.gg/qdhZbwraNZ)) - Discontinued
 ---
 
 ## 🛠 Legit Tools & Utilities
