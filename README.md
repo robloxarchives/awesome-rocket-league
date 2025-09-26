@@ -26,10 +26,7 @@
 - [Psyonix Support](https://support.rocketleague.com/) — Official help & reporting page.  
 
 ## ⚠️ Cheat Projects
-- [RLBot/RLBot](https://github.com/RLBot/RLBot) ([Discord](https://discord.gg/rlbot)) — Legitimate bot framework used for AI tournaments.  
-- [example-user/rl-bot-demo](https://github.com/example-user/rl-bot-demo) — Educational bot demo (archived).  
-- [example-user/rl-cheat-research](https://github.com/example-user/rl-cheat-research) ([Discord Invite](https://discord.gg/example)) — Research-only repo on packet injection.  
-
+- [VutriumBot](https://github.com/tntgamer685347/VutriumBot) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)
 ---
 
 ## 🛠 Legit Tools & Utilities
