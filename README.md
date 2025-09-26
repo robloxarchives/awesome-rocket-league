@@ -23,9 +23,9 @@
 ## ⚠️ Cheat Projects
 - [VutriumBot](https://github.com/tntgamer685347/VutriumBot) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Notorious Rocket League cheat
 
-- [nextoshop]([Discord](discord.gg/nextbot)) ([Website](nextshop.vip)) - Rocket League Cheat
+- [Nextoshop]([Discord](discord.gg/nextbot)) ([Website](nextshop.vip)) - Rocket League Cheat
 
-- [evil rlgym](https://github.com/tntgamer685347/VutriumBot) ([Discord](https://discord.gg/qdhZbwraNZ)) - Continuation of MarlBot
+- [EvilRLGYM](https://github.com/tntgamer685347/VutriumBot) ([Discord](https://discord.gg/qdhZbwraNZ)) - Continuation of MarlBot
 
 - [RLMarlbot]([Discord](https://discord.gg/qdhZbwraNZ)) - Discontinued
 ---
