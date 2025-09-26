@@ -7,7 +7,7 @@
 
 - Nextoshop ([Discord](discord.gg/nextbot)) ([Website](nextshop.vip)) - Closed Source
 
-- EvilRLGYM ([Discord](https://discord.gg/qdhZbwraNZ)) - Hacking Community
+- EvilRLGYM ([Discord](https://discord.gg/qdhZbwraNZ)) - RL Hacking Community
 
 - RLMarlbot ([Discord](https://discord.gg/qdhZbwraNZ)) - Discontinued
 
