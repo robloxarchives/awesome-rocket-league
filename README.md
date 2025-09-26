@@ -25,23 +25,23 @@
 ---
 
 ## Legit Tools & Utilities
-- [BakkesMod](https://bakkesmod.com/) — Popular modding/training framework (safe if used responsibly).  
+- [BakkesMod](https://bakkesmod.com/) ([Discord](https://discord.gg/bakkesmod)) — Popular modding/training framework (safe if used responsibly).  
 - [RL Insider](https://rl.insider.gg/) — Community-driven price index for trading items.  
-- [RLBot Framework](https://github.com/RLBot/RLBot) — Open-source bot framework for building AI-controlled cars.  
+- [RLBot Framework](https://github.com/RLBot/RLBot) ([Discord](https://discord.gg/rlbot)) — Open-source bot framework for building AI-controlled cars.  
 - [Quick Chat Generators](https://rlquickchats.com/) — Build and share quick chat combos.  
 
 ---
 
 ## Stats & Replay Analysis
-- [Ballchasing](https://ballchasing.com/) — Upload and analyze replays with advanced stat breakdowns.  
-- [Tracker Network (TRN)](https://rocketleague.tracker.network/) — Player stats and leaderboard tracking.  
-- [Octane.gg](https://octane.gg/) — Pro esports stats, schedules, and match history.  
+- [Ballchasing](https://ballchasing.com/) ([Discord](https://discord.gg/ballchasing)) — Upload and analyze replays with advanced stat breakdowns.  
+- [Tracker Network (TRN)](https://rocketleague.tracker.network/) ([Discord](https://discord.gg/tracker)) — Player stats and leaderboard tracking.  
+- [Octane.gg](https://octane.gg/) ([Discord](https://discord.gg/octane)) — Pro esports stats, schedules, and match history.  
 
 ---
 
 ## APIs & Developer Resources
-- [Ballchasing API](https://ballchasing.com/doc/api) — Automate replay uploads and analysis queries.  
-- [Tracker.gg Developer API](https://tracker.gg/developers) — Programmatic access to Rocket League stats.  
+- [Ballchasing API](https://ballchasing.com/doc/api) ([Discord](https://discord.gg/ballchasing)) — Automate replay uploads and analysis queries.  
+- [Tracker.gg Developer API](https://tracker.gg/developers) ([Discord](https://discord.gg/tracker)) — Programmatic access to Rocket League stats.  
 - [Rocket League Replay Parser (Community)](https://github.com/tfausak/rocket-league-replays) — Tools for parsing replay files.  
 
 ---
@@ -52,9 +52,9 @@
 These repositories are listed **only for educational and research purposes** to help the community understand how cheats/bots are built and to aid in detection/defense.  
 **Do not** use them to gain unfair advantages — this violates Rocket League’s Terms of Service and can result in bans.
 
-- [RLBot/RLBot](https://github.com/RLBot/RLBot) — Legitimate bot-building framework widely used for AI tournaments.  
+- [RLBot/RLBot](https://github.com/RLBot/RLBot) ([Discord](https://discord.gg/rlbot)) — Legitimate bot-building framework widely used for AI tournaments.  
 - [example-user/rl-bot-demo](https://github.com/example-user/rl-bot-demo) — Educational bot demo (archived).  
-- [example-user/rl-cheat-research](https://github.com/example-user/rl-cheat-research) — Research-only repo exploring packet injection techniques.  
+- [example-user/rl-cheat-research](https://github.com/example-user/rl-cheat-research) ([Discord Invite](https://discord.gg/example)) — Research-only repo exploring packet injection techniques.  
 
 ---
 
@@ -62,6 +62,7 @@ These repositories are listed **only for educational and research purposes** to 
 - [Reddit: r/RocketLeague](https://www.reddit.com/r/RocketLeague/) — Main Rocket League subreddit.  
 - [Rocket League Esports](https://esports.rocketleague.com/) — Official esports hub.  
 - [RL Garage](https://rocket-league.com/) — Trading, community forums, and item database.  
+- [Rocket League Community Hub (Discord)](https://discord.gg/rocketleague) — General discussion, trades, and news.  
 
 ---
 
