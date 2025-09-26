@@ -26,10 +26,6 @@
 - [Psyonix Support](https://support.rocketleague.com/) — Official help & reporting page.  
 
 ### ⚠️ Known Cheat Projects (Awareness)
-
-> **Disclaimer:** These are listed **only for research & awareness**.  
-> Using them = 🚫 ban risk + ToS violation. Shared so the community/devs can fight back.
-
 - [RLBot/RLBot](https://github.com/RLBot/RLBot) ([Discord](https://discord.gg/rlbot)) — Legitimate bot framework used for AI tournaments.  
 - [example-user/rl-bot-demo](https://github.com/example-user/rl-bot-demo) — Educational bot demo (archived).  
 - [example-user/rl-cheat-research](https://github.com/example-user/rl-cheat-research) ([Discord Invite](https://discord.gg/example)) — Research-only repo on packet injection.  
