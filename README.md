@@ -1,7 +1,6 @@
 # 🚀 Awesome Rocket League [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/yourname/awesome-rocket-league?style=social)](https://github.com/yourname/awesome-rocket-league/stargazers) [![Discord](https://img.shields.io/discord/240880736851894272?logo=discord&label=community)](https://discord.gg/rocketleague)
 
-> ⚡ The **#1 ** Rocket League resources
-> tools, stats, reporting sites, AND known cheat projects (for awareness).  
+> #1 Rocket League resources
 >  Inspired by the [awesome](https://github.com/sindresorhus/awesome) format.  
 
 ## 🚨 Cheater Reporting
