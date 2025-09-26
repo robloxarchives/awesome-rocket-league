@@ -2,11 +2,6 @@
 
 > #1 Rocket League resources
 
-## 🚨 Cheater Reporting
-- [WhosBotting](https://whosbotting.com/) — Community tracking of suspected botters and cheaters.  
-- [Rocket League Garage Reports](https://rocket-league.com/trades/report) — Report scam trades and suspicious activity.  
-- [Psyonix Support](https://support.rocketleague.com/) — Official help & reporting page.  
-
 ## ⚠️ Cheat Projects
 - VutriumBot ([Github](https://github.com/tntgamer685347/VutriumBot)) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Open Source Rocket League cheat
 
@@ -15,6 +10,13 @@
 - EvilRLGYM ([Discord](https://discord.gg/qdhZbwraNZ)) - Continuation of MarlBot
 
 - RLMarlbot ([Discord](https://discord.gg/qdhZbwraNZ)) - Discontinued
+
+---
+## 🚨 Report Cheaters
+- [WhosBotting](https://whosbotting.com/) — Community tracking of suspected botters and cheaters.  
+- [Rocket League Garage Reports](https://rocket-league.com/trades/report) — Report scam trades and suspicious activity.  
+- [Psyonix Support](https://support.rocketleague.com/) — Official help & reporting page.  
+
 ---
 
 ## 🛠 Legit Tools & Utilities
