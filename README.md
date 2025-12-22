@@ -17,7 +17,6 @@
 ## 🛠 Legit Tools & Utilities
 - [BakkesMod](https://bakkesmod.com/)  — The must-have modding/training framework.   
 - [RLBot](https://github.com/RLBot/RLBot) ([Discord](https://discord.com/invite/rlbot-348658686962696195)) — Make Rocket League bots.  
-- [Quick Chat Generators](https://rlquickchats.com/) — Create & share quick chat combos.  
 
 ---
 ## 📊 Stats & Replay Analysis
