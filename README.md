@@ -15,22 +15,18 @@
 
 ---
 ## 🛠 Legit Tools & Utilities
-- [BakkesMod](https://bakkesmod.com/) ([Discord](https://discord.gg/bakkesmod)) — The must-have modding/training framework.   
+- [BakkesMod](https://bakkesmod.com/)  — The must-have modding/training framework.   
 - [RLBot](https://github.com/RLBot/RLBot) ([Discord](https://discord.com/invite/rlbot-348658686962696195)) — Make Rocket League bots.  
 - [Quick Chat Generators](https://rlquickchats.com/) — Create & share quick chat combos.  
 
 ---
 ## 📊 Stats & Replay Analysis
-- [Ballchasing](https://ballchasing.com/) ([Discord](https://discord.gg/ballchasing)) — Upload & analyze replays with advanced stats.  
-- [Tracker Network (TRN)](https://rocketleague.tracker.network/) ([Discord](https://discord.gg/tracker)) — Player stats + leaderboards.  
-- [Octane.gg](https://octane.gg/) ([Discord](https://discord.gg/octane)) — Esports stats, match history, schedules.  
+- [Ballchasing](https://ballchasing.com/) — Upload & analyze replays with advanced stats.  
+- [Tracker Network (TRN)](https://rocketleague.tracker.network/) — Player stats + leaderboards.  
 
 ---
 ## 💻 APIs & Developer Resources
-- [Ballchasing API](https://ballchasing.com/doc/api) ([Discord](https://discord.gg/ballchasing)) — Automate replay uploads/analysis.  
-- [Tracker.gg Developer API](https://tracker.gg/developers) ([Discord](https://discord.gg/tracker)) — Stats via API.  
-- [Rocket League Replay Parser (Community)](https://github.com/tfausak/rocket-league-replays) — Open-source replay parsing tools.  
-
+- [Ballchasing API](https://ballchasing.com/doc/api) — Automate replay uploads/analysis.   
 
 ---
 💡 *Pro Tip: Star ⭐ this repo if you want to keep up with new tools, reporting sites, and latest trends.*
