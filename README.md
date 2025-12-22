@@ -7,7 +7,7 @@
 
 ---
 ## ⚠️ Cheat Projects
-- EvilRLGYM ([Discord](https://discord.gg/DswQeeNK)) - RL Hacking Community
+- EvilRLGYM ([Discord](https://discord.gg/vyZRZ8AkND)) - RL Hacking Community
 - VutriumBot ([Github](https://github.com/tntgamer685347/VutriumBot)) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Open Source
 - CarbonX  ([Discord](https://discord.com/invite/Kccszzv3D3)) ([Website](https://carbonx.gg/rocket-league)) - Closed Source
 - Nextoshop ([Discord](https://discord.gg/FFFPUYmG5b)) ([Website](https://nextshop.vip/)) - Closed Source
