@@ -12,7 +12,7 @@
 - VutriumBot ([Github](https://github.com/tntgamer685347/VutriumBot)) ([Discord](https://discord.com/invite/6qFa34HUqB)) ([Website](https://needlesspage819.github.io/VutriumSite/)) - Free Cheat/Open Source
 - CarbonX  ([Discord](https://discord.com/invite/Kccszzv3D3)) ([Website](https://carbonx.gg/rocket-league)) - Free/Paid Cheat
 - Nextoshop ([Discord](https://discord.gg/FFFPUYmG5b)) ([Website](https://nextshop.vip/)) - Paid Cheat
-- Voltaris [Discord](https://discord.gg/voltaris) ([Website](https://www.voltaris.gg/)) - Paid Cheat
+- Voltaris ([Discord](https://discord.gg/voltaris)) ([Website](https://www.voltaris.gg/)) - Paid Cheat
 
 ---
 ## 🛠 Legit Tools & Utilities
