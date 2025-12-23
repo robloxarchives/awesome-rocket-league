@@ -21,7 +21,7 @@
 
 ---
 ## 📊 Stats & Replay Analysis
-- [Ballchasing](https://ballchasing.com/) [Discord](https://discord.com/invite/dERqbZH) — Upload & analyze replays with advanced stats.  
+- [Ballchasing](https://ballchasing.com/) ([Discord](https://discord.com/invite/dERqbZH)) — Upload & analyze replays with advanced stats.  
 - [Tracker Network (TRN)](https://rocketleague.tracker.network/) — Player stats + leaderboards.  
 - [Ballcam](https://ballcam.tv/) — Visual replay viewer with ball-centric camera perspectives and match breakdowns.
 ---
