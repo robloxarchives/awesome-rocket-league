@@ -1,5 +1,8 @@
-# 🚀 Awesome Rocket League [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/robloxarchives/awesome-rocket-league?style=social
-)](https://github.com/robloxarchives/awesome-rocket-league) [![Discord](https://img.shields.io/discord/240880736851894272?logo=discord&label=community)](https://discord.gg/rocketleague)
+# 🚀 Awesome Rocket League
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Stars](https://img.shields.io/github/stars/robloxarchives/awesome-rocket-league?style=social)](https://github.com/robloxarchives/awesome-rocket-league)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord)](https://discord.gg/rocketleague)
+
 
 > #1 Rocket League resources
 
